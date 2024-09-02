@@ -1,4 +1,12 @@
-title{
-    color:white;
-    background-image: ;
+h1{
+    color:white
+
+}
+th{ color:white;
+    background-color:rgb(12, 152, 190);
+}
+td{
+    color: black;
+    background-color: aqua;
+    
 }
